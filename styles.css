@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+#form{
+    display: block;
+    text-align: center;
+}
+.head{
+    margin: 50px;
+}
+.form3{
+    justify-content: left;
+    margin: 10px;
+    padding: 20px;
+    text-decoration: double;
+}
+.name{
+    text-align: left;
+}
